@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<!DOCTYPE html>
+<html lang="fr">
+
+{% include head.html %}
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <header id="header">
+    <div class="wrap">
+      {% if page.url == "/" or page.url == "/index.html" %}
+        <h1 class="site_title">{{ site.title }}</h1>
+      {% else %}
+        <p class="site_title">
+          <a href="/" title="Accueil">{{ site.title }}</a>
+        </p>
+      {% endif %}
+    </div>
+  </header>
+  <main>
+    <div class="wrap">
+      {{ content }}
+    </div>
+  </main>
+  <footer id="footer">
+    <div class="wrap">
+      <p><small>&copy;</small></p>
+    </div>
+  </footer>
+</body>
+
+</html>

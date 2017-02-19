@@ -1,0 +1,47 @@
+<!-- nomicrotypo -->
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="stylesheet" href="styles.css" />
+
+  {% comment %} opengraph {% endcomment %}
+  <meta property="og:site_name" content="{% site.title %}" />
+  <meta property="og:image" content="" />
+
+  {% if page.title == "Accueil" %}
+    <title itemprop="name">{% site.title %}</title>
+    <link rel="canonical" href="{{ site.url }}" itemprop="url" />
+    <meta name="description" content="" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ site.title }}" />
+  {% else %}
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 150 | truncate: 290 | strip_newlines | escape_once }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="article:author" content="https://www.facebook.com/ecole.montessory.melun" />
+  {% endif %}
+
+  <link rel="alternate" type="application/rss+xml" title="Abonnez-vous au flux" href="/atom.xml" />
+  <link rel="icon" type="image/jpeg" href="/favicon.jpg" />
+
+  {% comment %} webmentions with webmention.io {% endcomment %}
+  <link rel="pingback" href="https://webmention.io/nicolas-hoizey.com/xmlrpc" />
+  <link rel="webmention" href="https://webmention.io/nicolas-hoizey.com/webmention" />
+
+  {% comment %} iOS features {% endcomment %}
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <link rel="apple-touch-icon" href="/favicon.jpg" />
+  <meta name="apple-mobile-web-app-title" content="NH.com" />
+
+  {% comment %} Theme color : https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android {% endcomment %}
+  <meta name="theme-color" content="#43246a">
+
+  {% comment %} web app manifest {% endcomment %}
+  <link rel="manifest" href="/manifest.webmanifest" />
+</head>
+<!-- endnomicrotypo -->

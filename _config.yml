@@ -1,0 +1,35 @@
+# Site settings
+title: École Montessori de Melun - Vaux le Pénil
+email:
+baseurl: ""
+url: "http://www.ecole-montessori-melun.com"
+github_username:  montessori-melun
+
+# Permalinks
+permalink: :year/:month/:title.html
+
+# Markdown parsing
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  footnote_backlink: "⬆︎"
+  header_offset: 1
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      lang: fr
+
+exclude:
+  - Gemfile*
+  - README.md
+  - LICENSE.md
+include:
+  - favicon.jpg
+
