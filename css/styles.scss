@@ -171,3 +171,60 @@ iframe {
   }
 }
 
+// ************************************************************
+// Navigation
+// ************************************************************
+
+#nav {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+    @media (min-width: 40em) {
+      display: flex;
+    }
+  }
+
+  li {
+    flex: 1;
+    white-space: nowrap;
+    margin: 1px;
+    padding: 0;
+  }
+
+  a {
+    display: inline-block;
+    width: 100%;
+    padding: .2em .5em;
+
+    &:link, &:visited {
+      text-decoration: none;
+    }
+
+    &:hover, &:focus, &:active {
+      text-decoration: underline solid #fff;
+    }
+
+    &.pedagogie {
+      background-color: $couleur-jaune;
+      color: #fff;
+    }
+
+    &.ecole {
+      background-color: $couleur-bleu;
+      color: #fff;
+    }
+
+    &.classes {
+      background-color: $couleur-rose;
+      color: #fff;
+    }
+
+    &.pratique {
+      background-color: $couleur-vert;
+      color: #fff;
+    }
+  }
+}
+
