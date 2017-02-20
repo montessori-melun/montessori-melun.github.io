@@ -11,6 +11,9 @@ url: "http://www.ecole-montessori-melun.com"
 # Permalinks
 permalink: :year/:month/:title.html
 
+# Just for local server
+port: 4321
+
 # Markdown parsing
 markdown: kramdown
 kramdown:
