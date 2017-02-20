@@ -145,3 +145,29 @@ iframe {
   }
 }
 
+// ************************************************************
+// Header
+// ************************************************************
+
+#header {
+  margin: 0;
+  padding: 0;
+
+  p, h1 {
+    margin: 0;
+    line-height: 2;
+  }
+
+  h1 {
+    font-size: 1em;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .site_title a:hover {
+    text-decoration: underline;
+  }
+}
+
