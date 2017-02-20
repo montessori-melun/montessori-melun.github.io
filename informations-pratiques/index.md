@@ -1,3 +1,3 @@
 ---
-title: informations pratiques
+title: Informations pratiques
 ---
