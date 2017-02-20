@@ -7,10 +7,12 @@
   <header id="header">
     <div class="wrap">
       {% if page.url == "/" or page.url == "/index.html" %}
-        <h1 class="site_title">{{ site.title }}</h1>
+        <h1 class="site_title">
+          <img src="/images/logo-ecole-montessori-melun.png" alt="{{ site.title }}" width="300" />
+        </h1>
       {% else %}
         <p class="site_title">
-          <a href="/" title="Accueil">{{ site.title }}</a>
+          <a href="/" title="Accueil"><img src="/images/logo-ecole-montessori-melun.png" alt="{{ site.title }}" width="300" /></a>
         </p>
       {% endif %}
     </div>
