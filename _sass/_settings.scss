@@ -1,0 +1,18 @@
+// ************************************************************
+// Couleurs
+// ************************************************************
+
+$couleur-jaune: #F5D04A;
+$couleur-bleu: #95CEE3;
+$couleur-rose: #C65573;
+$couleur-vert: #62A050;
+$couleur-rouge: #D9513B;
+
+$couleur-fond: #fff;
+$couleur-texte: #222;
+
+$couleur-lien: $couleur-bleu;
+$couleur-lien-souligne: darken($couleur-bleu, 20%);
+$couleur-lien-survol: $couleur-rouge;
+$couleur-lien-actif: $couleur-rouge;
+
