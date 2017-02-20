@@ -1,9 +1,12 @@
 # Site settings
 title: École Montessori de Melun - Vaux le Pénil
 email:
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: ""
 url: "http://www.ecole-montessori-melun.com"
-github_username:  montessori-melun
 
 # Permalinks
 permalink: :year/:month/:title.html
@@ -12,8 +15,6 @@ permalink: :year/:month/:title.html
 markdown: kramdown
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
-  footnote_backlink: "⬆︎"
   header_offset: 1
 
 # Defaults
