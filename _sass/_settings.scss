@@ -2,17 +2,17 @@
 // Couleurs
 // ************************************************************
 
-$couleur-jaune: #F5D04A;
-$couleur-bleu: #95CEE3;
-$couleur-rose: #C65573;
-$couleur-vert: #62A050;
-$couleur-rouge: #D9513B;
+$couleur-jaune: #FFDB53;
+$couleur-bleu: #92D7E9;
+$couleur-rose: #E85C80;
+$couleur-vert: #4EB566;
+$couleur-rouge: #F45D3D;
+$couleur-noir: #1C1C1B;
 
 $couleur-fond: #fff;
-$couleur-texte: #222;
+$couleur-texte: $couleur-noir;
 
 $couleur-lien: $couleur-bleu;
 $couleur-lien-souligne: darken($couleur-bleu, 20%);
 $couleur-lien-survol: $couleur-rouge;
 $couleur-lien-actif: $couleur-rouge;
-
