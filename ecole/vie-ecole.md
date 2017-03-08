@@ -1,4 +1,4 @@
-
+  
 # LA VIE DE L'ECOLE
 
 ## Le calendrier scolaire
@@ -41,7 +41,6 @@ L’équipe pédagogique organise par ailleurs des rendez-vous pédagogiques ind
 -	Pour les enfants de la classe maternelle, chaque famille est reçue deux fois dans l’année scolaire.
 -	Pour les enfants de la classe élémentaire, les familles sont reçues à chaque trimestre.
 Il s’agit, à travers ces rendez-vous, d’effectuer  le suivi pédagogique de chaque enfant.  
-
 Les familles peuvent aussi solliciter à tout moment un rendez-vous avec l’équipe pédagogique ou avec la direction. Ces rendez-vous peuvent aussi être demandés par l’équipe pédagogique ou la direction.  
 
 
