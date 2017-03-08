@@ -1,4 +1,4 @@
 ---
-Title: Informations pratiques
+title: Informations pratiques
 ---
 
