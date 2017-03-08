@@ -26,3 +26,30 @@ Les repas sont livrés chaque jour à l’école.
 
 
 Les parents qui le souhaitent peuvent apporter un panier repas dans le respect des  conditions d’hygiène en vigueur. Les plats peuvent être chauffés au four à 110°C maximum. 
+
+
+## LE LIEN AVEC LES FAMILLES
+
+Afin de favoriser le lien avec les familles, l’École Montessori de Melun-Vaux le Pénil propose plusieurs réunions collectives :  
+-	réunion de rentrée pour présenter l’école ainsi que la pédagogie Montessori
+-	réunion de classe pour présenter chaque classe et son projet pédagogique
+-	Portes Ouvertes pour présenter, entre autre,  le matériel Montessori 
+-	…  
+
+
+L’équipe pédagogique organise par ailleurs des rendez-vous pédagogiques individuels. Chaque entretien, d’une durée de 30 minutes, se déroule sans la présence de l’enfant.  
+-	Pour les enfants de la classe maternelle, chaque famille est reçue deux fois dans l’année scolaire.
+-	Pour les enfants de la classe élémentaire, les familles sont reçues à chaque trimestre.
+Il s’agit, à travers ces rendez-vous, d’effectuer  le suivi pédagogique de chaque enfant.  
+
+Les familles peuvent aussi solliciter à tout moment un rendez-vous avec l’équipe pédagogique ou avec la direction. Ces rendez-vous peuvent aussi être demandés par l’équipe pédagogique ou la direction.  
+
+
+D’autre part, les familles sont conviées à différentes manifestations permettant de présenter le travail réalisé par les enfants ; par exemple :
+-	Exposition d’Arts Plastiques
+-	Concert
+-	Pièce de théâtre 
+-	Spectacle de fin d’année
+-	…
+
+
