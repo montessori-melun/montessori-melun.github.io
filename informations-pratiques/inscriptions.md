@@ -1,0 +1,3 @@
+---
+title: Inscriptions et tarifs
+---
