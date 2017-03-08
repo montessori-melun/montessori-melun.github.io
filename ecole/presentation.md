@@ -31,7 +31,7 @@ L'Ecole Montessori de Melun-Vaux le Pénil ouvrira à la rentrée prochaine, en 
 ## UN LIEU DE VIE POUR LES ENFANTS
 
 
-L'Ecole Montessori de Melun-Vaux le Pénil est un établissement scolaire mais aussi un lieu de vie pour les enfants : il s’agit  non seulement d’y permettre l'acquisition des apprentissages fondamentaux, mais surtout de favoriser l’épanouissement de la personnalité de chaque enfant.  
+L'Ecole Montessori de Melun-Vaux le Pénil est un établissement scolaire mais aussi **un lieu de vie pour les enfants** : il s’agit  non seulement d’y permettre l'acquisition des apprentissages fondamentaux, mais surtout de favoriser l’épanouissement de la personnalité de chaque enfant.  
 
 
 Ainsi, en plus du cadre structurant apporté par la pédagogie Montessori, le respect de l'enfant et des phases de son développement psychique et affectif est à la base l’école.  
