@@ -1,8 +1,8 @@
 
-# Présentation
+# PRESENTATION
 
 
-## L'ECOLE
+## L'école
 
 
 L'Ecole Montessori de Melun-Vaux le Pénil est un établissement privé hors contrat, non confessionnel, déclaré à l'Inspection Académique. 
@@ -28,7 +28,7 @@ L'Ecole Montessori de Melun-Vaux le Pénil est adhérente de l’**Association M
 L'Ecole Montessori de Melun-Vaux le Pénil ouvrira à la rentrée prochaine, en septembre 2017.
 
 
-## UN LIEU DE VIE POUR LES ENFANTS
+## Un lieu de vie pour les enfants
 
 
 L'Ecole Montessori de Melun-Vaux le Pénil est un établissement scolaire mais aussi **un lieu de vie pour les enfants** : il s’agit  non seulement d’y permettre l'acquisition des apprentissages fondamentaux, mais surtout de favoriser l’épanouissement de la personnalité de chaque enfant.  
