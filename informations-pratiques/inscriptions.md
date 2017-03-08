@@ -1,7 +1,7 @@
 ---
 title: Inscriptions
 ---
-Pour une pré-inscription, n’hésitez pas à prendre contact par téléphone au **07 87 85 45 98** ou par e-mail à l’adresse <contact@ecole-montessori-melun.fr>
+Pour une pré-inscription, n’hésitez pas à prendre contact par téléphone au **07 87 85 45 98** ou par e-mail à l’adresse <contact@ecole-montessori-melun.fr>  
 Une première rencontre sera alors organisée.
 
 ---
