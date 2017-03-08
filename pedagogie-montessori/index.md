@@ -1,3 +1,3 @@
 ---
-title: Maria Montessori
+title: Mari Montessori
 ---
