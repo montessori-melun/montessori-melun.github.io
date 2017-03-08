@@ -1,8 +1,8 @@
 
-# Inscriptions et tarifs
+# INSCRIPTIONS ET TARIFS
 
 
-## INSCRIPTIONS :
+## Inscriptions
 
 
 Pour une pré-inscription, n’hésitez pas à prendre contact  
@@ -14,7 +14,7 @@ ou
 Une première rencontre sera alors organisée.
 
 
-## TARIFS :
+## Tarifs
 
 
 **Frais d’inscription :** 400€ par enfant  
