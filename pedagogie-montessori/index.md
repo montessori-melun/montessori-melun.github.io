@@ -1,3 +1,3 @@
 ---
-title: La pédagogie Montessori
+title: Maria Montessori
 ---
