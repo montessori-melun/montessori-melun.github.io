@@ -12,9 +12,9 @@ Directeur de la publication : la directrice de l’Ecole Montessori de Melun-Vau
 
 ## Conception/Développement/Hébergement
 
-Conception graphique : 
-Développement et hébergement : 
-Site propulsé par :
+Conception graphique :   
+Développement et hébergement :   
+Site propulsé par :  
 
 ## Responsabilités
 
@@ -30,10 +30,10 @@ L’ensemble de ce site relève des législations française et internationale s
 Les informations envoyées sont destinées à l’École Montessori de Melun-Vaux le Pénil qui traitera vos demandes d’informations. Vous avez un droit total d’accès, de modification, de rectification et de suppression aux informations nominatives vous concernant.
 
 Pour l’exercer, adressez-vous à :
-Ecole Montessori de Melun-Vaux le Pénil
-949 avenue Saint-Just
-77000 VAUX LE PENIL
-E-mail : contact@ecole-montessori-melun.fr
+> Ecole Montessori de Melun-Vaux le Pénil
+> 949 avenue Saint-Just
+> 77000 VAUX LE PENIL
+> E-mail : contact@ecole-montessori-melun.fr
 
 ## Crédits Photo
 
