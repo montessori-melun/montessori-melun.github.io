@@ -9,7 +9,7 @@ baseurl: ""
 url: "http://www.ecole-montessori-melun.com"
 
 # Permalinks
-permalink: :year/:month/:title.html
+permalink: :year/:month/:title:output_ext
 
 # Just for local server
 port: 4321

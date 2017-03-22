@@ -12,13 +12,13 @@ ou
 
 Une première rencontre sera alors organisée.
 
-Voir [les détails sur les inscriptions et tarifs](inscriptions.html).
+Voir [les détails sur les inscriptions et tarifs](inscriptions.md).
 
 # Contacts
 
-Voir [les informations de contact](contact.html).
+Voir [les informations de contact](contact.md).
 
 # Liens
 
-Voir [quelques liens utiles](liens.html).
+Voir [quelques liens utiles](liens.md).
 

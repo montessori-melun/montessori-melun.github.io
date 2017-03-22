@@ -9,6 +9,6 @@ Les grands principes de la pédagogie Montessori permettent à l’enfant d’ac
 - l’activité individuelle
 - l’apprentissage par l’expérience
 - la liberté et l’autodiscipline
--  l’éducation comme une aide à la vie.
+- l’éducation comme une aide à la vie.
 
 Maria Montessori fut plusieurs fois nominée pour le Prix Nobel de la paix.
