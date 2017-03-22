@@ -3,7 +3,15 @@
 
 {% include head.html %}
 
-<body{% if page.section %} class="{{ page.section }}"{% endif %}>
+{% assign slashLessUrlSize = page.url | replace:'/','' | size %}
+{% assign levels = page.url | size | minus: slashLessUrlSize %}
+{% assign section = false %}
+{% if levels > 1 %}
+  {% assign section = page.url | split:"/" %}
+  {% assign section = section[1] %}
+{% endif %}
+
+<body{% if section %} class="{{ section }}"{% endif %}>
   <header id="header">
     <div class="wrap">
       {% if page.url == "/" or page.url == "/index.html" %}
@@ -20,10 +28,10 @@
   <nav id="nav">
     <div class="wrap">
       <ul>
-        <li><a href="/pedagogie-montessori/" class="pedagogie{% if page.section == 'pedagogie' %} actif{% endif %}">La pédagogie Montessori</a></li>
-        <li><a href="/ecole/" class="ecole{% if page.section == 'ecole' %} actif{% endif %}">L’école</a></li>
-        <li><a href="/classes/" class="classes{% if page.section == 'classes' %} actif{% endif %}">Les classes</a></li>
-        <li><a href="/informations-pratiques/" class="pratique{% if page.section == 'pratique' %} actif{% endif %}">Informations pratiques</a></li>
+        <li><a href="/pedagogie-montessori/" class="pedagogie{% if section == 'pedagogie' %} actif{% endif %}">La pédagogie Montessori</a></li>
+        <li><a href="/ecole/" class="ecole{% if section == 'ecole' %} actif{% endif %}">L’école</a></li>
+        <li><a href="/classes/" class="classes{% if section == 'classes' %} actif{% endif %}">Les classes</a></li>
+        <li><a href="/informations-pratiques/" class="pratique{% if section == 'pratique' %} actif{% endif %}">Informations pratiques</a></li>
       </ul>
     </div>
   </nav>

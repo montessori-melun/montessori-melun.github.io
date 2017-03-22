@@ -1,6 +1,5 @@
 ---
 title: Les classes
-section: classes
 ---
 
 L'École Montessori de Melun - Vaux le Pénil accueille les enfants âgés de 3 à 9 ans, répartis en 2 classes :

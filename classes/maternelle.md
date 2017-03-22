@@ -1,6 +1,5 @@
 ---
 title: La classe maternelle
-section: classes
 ---
 
 **« Aide-moi à faire seul »**
