@@ -32,11 +32,26 @@ Maria Montessori cherchait à frapper l’imagination des enfants de 6 à 9 ans.
 
 # Une journée dans la classe élémentaire à l’Ecole Montessori de Melun-Vaux le Pénil
 
-|de 8h à 9h :|accueil des enfants|
-|de 9h à 12h :|temps de travail et d’activités individuelles ou en petits groupes|
-|de 12h à 12h45 :|installation et repas|
-|de 12h45 à 13h30 :|temps de récréation|
-|de 13h30 à 16h :|temps de travail et d’activités individuelles ou en petits groupes|
-|de 16h à 16h30 :|temps d’échanges et goûter|
-|de 16h30 à 17h30 :|sortie|
-|de 17h30 à 18h30 :|garderie|
+de 8h à 9h :
+: accueil des enfants
+
+de 9h à 12h :
+: temps de travail et d’activités individuelles ou en petits groupes
+
+de 12h à 12h45 :
+: installation et repas
+
+de 12h45 à 13h30 :
+: temps de récréation
+
+de 13h30 à 16h :
+: temps de travail et d’activités individuelles ou en petits groupes
+
+de 16h à 16h30 :
+: temps d’échanges et goûter
+
+de 16h30 à 17h30 :
+: sortie
+
+de 17h30 à 18h30 :
+: garderie

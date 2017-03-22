@@ -51,12 +51,29 @@ Les enfants les plus jeunes peuvent se reposer en début d’après-midi dans la
 
 # Une journée dans la classe maternelle à l’Ecole Montessori de Melun-Vaux le Pénil
 
-|de 8h à 9h :|accueil des enfants|
-|de 9h à 11h30 :|temps de travail et d’activités individuelles|
-|de 11h30 à 12h30 :|installation et repas|
-|de 12h30 à 13h30 :|temps de récréation|
-|vers 13h15 :|sieste pour les plus jeunes|
-|de 13h30 à 16h :|temps de travail et d’activités individuelles|
-|de 16h à 16h30 :|temps d’échanges et goûter|
-|de 16h30 à 17h30 :|sortie|
-|de 17h30 à 18h30 :|garderie|
+de 8h à 9h :
+: accueil des enfants
+
+de 9h à 11h30 :
+: temps de travail et d’activités individuelles
+
+de 11h30 à 12h30 :
+: installation et repas
+
+de 12h30 à 13h30 :
+: temps de récréation
+
+vers 13h15 :
+: sieste pour les plus jeunes
+
+de 13h30 à 16h :
+: temps de travail et d’activités individuelles
+
+de 16h à 16h30 :
+: temps d’échanges et goûter
+
+de 16h30 à 17h30 :
+: sortie
+
+de 17h30 à 18h30 :
+: garderie
