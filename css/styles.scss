@@ -226,6 +226,10 @@ iframe {
       background-color: $couleur-vert;
       color: #fff;
     }
+
+    &.actif {
+      font-weight: bolder;
+    }
   }
 }
 

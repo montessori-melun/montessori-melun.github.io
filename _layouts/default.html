@@ -20,10 +20,10 @@
   <nav id="nav">
     <div class="wrap">
       <ul>
-        <li><a href="/pedagogie-montessori/" class="pedagogie">La pédagogie Montessori</a></li>
-        <li><a href="/ecole/" class="ecole">L’école</a></li>
-        <li><a href="/classes/" class="classes">Les classes</a></li>
-        <li><a href="/informations-pratiques/" class="pratique">Informations pratiques</a></li>
+        <li><a href="/pedagogie-montessori/" class="pedagogie{% if page.section == 'pedagogie' %} actif{% endif %}">La pédagogie Montessori</a></li>
+        <li><a href="/ecole/" class="ecole{% if page.section == 'ecole' %} actif{% endif %}">L’école</a></li>
+        <li><a href="/classes/" class="classes{% if page.section == 'classes' %} actif{% endif %}">Les classes</a></li>
+        <li><a href="/informations-pratiques/" class="pratique{% if page.section == 'pratique' %} actif{% endif %}">Informations pratiques</a></li>
       </ul>
     </div>
   </nav>
