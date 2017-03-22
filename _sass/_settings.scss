@@ -12,7 +12,7 @@ $couleur-noir: #1C1C1B;
 $couleur-fond: #fff;
 $couleur-texte: $couleur-noir;
 
-$couleur-lien: $couleur-bleu;
+$couleur-lien: darken($couleur-bleu, 20%);
 $couleur-lien-souligne: darken($couleur-bleu, 20%);
 $couleur-lien-survol: $couleur-rouge;
 $couleur-lien-actif: $couleur-rouge;
