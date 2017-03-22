@@ -1,21 +1,24 @@
+---
+title: Informations pratiques
+---
 
-# INFORMATIONS PRATIQUES
+# Inscriptions et tarifs
 
-## Inscriptions et tarifs
+Pour une pré-inscription, n’hésitez pas à prendre contact
+> par téléphone au **07 87 85 45 98**
 
-Pour une pré-inscription, n’hésitez pas à prendre contact 
-> par téléphone au **07 87 85 45 98**  
-ou  
-> par e-mail à <contact@ecole-montessori-melun.fr>  
+ou
+> par e-mail à <contact@ecole-montessori-melun.fr>
 
 Une première rencontre sera alors organisée.
-> Plus d’infos
 
-## Contacts
+Voir [les détails sur les inscriptions et tarifs](inscriptions.html).
 
-> Plus d’infos
+# Contacts
 
-## Liens
+Voir [les informations de contact](contact.html).
 
-> Plus d’infos
+# Liens
+
+Voir [quelques liens utiles](liens.html).
 
