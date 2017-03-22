@@ -1,5 +1,6 @@
 ---
 title: La classe élémentaire
+section: classes
 ---
 
 **« Aide-moi à penser par moi-même »**

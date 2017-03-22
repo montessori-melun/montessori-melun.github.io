@@ -3,7 +3,7 @@
 
 {% include head.html %}
 
-<body itemscope itemtype="http://schema.org/WebPage">
+<body{% if page.section %} class="{{ page.section }}"{% endif %}>
   <header id="header">
     <div class="wrap">
       {% if page.url == "/" or page.url == "/index.html" %}
