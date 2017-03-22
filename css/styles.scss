@@ -51,8 +51,8 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.3;
   margin-bottom: .5em;
 
-  .pedagogie & {
-    color: darken($couleur-section-pedagogie, 20%);
+  .pedagogie-montessori & {
+    color: darken($couleur-section-pedagogie-montessori, 20%);
   }
 
   .ecole & {
@@ -63,8 +63,8 @@ h1, h2, h3, h4, h5, h6 {
     color: darken($couleur-section-classes, 20%);
   }
 
-  .pratique & {
-    color: darken($couleur-section-pratique, 20%);
+  .informations-pratiques & {
+    color: darken($couleur-section-informations-pratiques, 20%);
   }
 }
 
@@ -222,8 +222,8 @@ iframe {
       text-decoration: underline solid #fff;
     }
 
-    &.pedagogie {
-      background-color: $couleur-section-pedagogie;
+    &.pedagogie-montessori {
+      background-color: $couleur-section-pedagogie-montessori;
       color: #fff;
     }
 
@@ -237,8 +237,8 @@ iframe {
       color: #fff;
     }
 
-    &.pratique {
-      background-color: $couleur-section-pratique;
+    &.informations-pratiques {
+      background-color: $couleur-section-informations-pratiques;
       color: #fff;
     }
 
