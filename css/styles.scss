@@ -255,14 +255,22 @@ iframe {
 main {
   flex: 1;
 
-  margin: 1em 0 5em;
+  margin: 1em 0 3em;
 
-  ul {
-    margin: 1em 0;
+  ul, dl {
+    margin: 0 0 1em 0;
   }
 
   li {
-    margin: 0 0 .5em 0;
+    margin: 0 0 .2em 0;
+  }
+
+  dt {
+    font-weight: bold;
+  }
+
+  dd {
+    margin: 0 0 1em 1em;
   }
 }
 
