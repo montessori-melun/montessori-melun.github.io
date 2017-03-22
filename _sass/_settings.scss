@@ -16,3 +16,10 @@ $couleur-lien: $couleur-bleu;
 $couleur-lien-souligne: darken($couleur-bleu, 20%);
 $couleur-lien-survol: $couleur-rouge;
 $couleur-lien-actif: $couleur-rouge;
+
+// Couleurs d'ambiance des sections
+
+$couleur-section-pedagogie: $couleur-jaune;
+$couleur-section-ecole: $couleur-bleu;
+$couleur-section-classes: $couleur-rose;
+$couleur-section-pratique: $couleur-vert;

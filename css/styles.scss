@@ -52,19 +52,19 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5em;
 
   .pedagogie & {
-    color: darken($couleur-jaune, 20%);
+    color: darken($couleur-section-pedagogie, 20%);
   }
 
   .ecole & {
-    color: darken($couleur-bleu, 20%);
+    color: darken($couleur-section-ecole, 20%);
   }
 
   .classes & {
-    color: darken($couleur-rose, 20%);
+    color: darken($couleur-section-classes, 20%);
   }
 
   .pratique & {
-    color: darken($couleur-vert, 20%);
+    color: darken($couleur-section-pratique, 20%);
   }
 }
 
@@ -223,22 +223,22 @@ iframe {
     }
 
     &.pedagogie {
-      background-color: $couleur-jaune;
+      background-color: $couleur-section-pedagogie;
       color: #fff;
     }
 
     &.ecole {
-      background-color: $couleur-bleu;
+      background-color: $couleur-section-ecole;
       color: #fff;
     }
 
     &.classes {
-      background-color: $couleur-rose;
+      background-color: $couleur-section-classes;
       color: #fff;
     }
 
     &.pratique {
-      background-color: $couleur-vert;
+      background-color: $couleur-section-pratique;
       color: #fff;
     }
 
