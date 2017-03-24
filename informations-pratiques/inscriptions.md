@@ -5,10 +5,10 @@ title: Inscriptions et tarifs
 # Inscriptions
 
 Pour une pré-inscription, n’hésitez pas à prendre contact
-> par téléphone au **07 87 85 45 98**
+> par téléphone au **<a href="tel:{{ site.phone }}">{{ site.phone }}</a>**
 
 ou
-> par e-mail à <contact@ecole-montessori-melun.fr>
+> par e-mail à <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 Une première rencontre sera alors organisée.
 
