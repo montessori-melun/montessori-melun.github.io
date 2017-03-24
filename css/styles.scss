@@ -107,6 +107,22 @@ h6 {
   font-style: italic;
 }
 
+.jaune {
+  color: darken($couleur-jaune, 20%);
+}
+
+.bleu {
+  color: darken($couleur-bleu, 20%);
+}
+
+.rose {
+  color: darken($couleur-rose, 20%);
+}
+
+.vert {
+  color: darken($couleur-vert, 20%);
+}
+
 // ************************************************************
 // Liens
 // ************************************************************
