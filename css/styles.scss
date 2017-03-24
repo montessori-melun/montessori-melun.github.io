@@ -126,6 +126,10 @@ a {
     color: $couleur-lien-actif;
     text-decoration: underline solid $couleur-lien-actif;
   }
+
+  &[href^=tel], &[href^=mailto] {
+    white-space: nowrap;
+  }
 }
 
 // ************************************************************
@@ -279,31 +283,27 @@ main {
 // ************************************************************
 
 #footer {
-  font-size: .9em;
+  font-size: .8em;
   margin: 1em 0 0;
   background-color: lighten($couleur-bleu, 10%);
   border-top: 1px solid $couleur-bleu;
 
   ul {
     margin: 0;
-    padding: 0;
+    padding: .5em 0;
     list-style-type: none;
-
-    @media (min-width: 40em) {
-      display: flex;
-    }
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
   }
 
   li {
     white-space: nowrap;
-    margin: 0 1em 0 0;
-    padding: 0;
+    margin: 0;
+    padding: .2em .5em;
   }
 
   a {
-    display: inline-block;
-    padding: .2em .5em;
-
     &:link, &:visited {
       color: $couleur-texte;
       text-decoration: underline solid darken($couleur-bleu, 30%);
