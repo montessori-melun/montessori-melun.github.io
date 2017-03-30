@@ -245,40 +245,40 @@ iframe {
     &.pedagogie-montessori {
       background-color: $couleur-section-pedagogie-montessori;
       color: #fff;
-      text-shadow: 1px 1px darken($couleur-section-pedagogie-montessori, 30%);
+      text-shadow: 1px 1px darken($couleur-section-pedagogie-montessori, 20%);
 
       &:hover {
-        background-color: darken($couleur-section-pedagogie-montessori, 30%);
+        background-color: darken($couleur-section-pedagogie-montessori, 20%);
       }
     }
 
     &.ecole {
       background-color: $couleur-section-ecole;
       color: #fff;
-      text-shadow: 1px 1px darken($couleur-section-ecole, 30%);
+      text-shadow: 1px 1px darken($couleur-section-ecole, 20%);
 
       &:hover {
-        background-color: darken($couleur-section-ecole, 30%);
+        background-color: darken($couleur-section-ecole, 20%);
       }
     }
 
     &.classes {
       background-color: $couleur-section-classes;
       color: #fff;
-      text-shadow: 1px 1px darken($couleur-section-classes, 30%);
+      text-shadow: 1px 1px darken($couleur-section-classes, 20%);
 
       &:hover {
-        background-color: darken($couleur-section-classes, 30%);
+        background-color: darken($couleur-section-classes, 20%);
       }
     }
 
     &.informations-pratiques {
       background-color: $couleur-section-informations-pratiques;
       color: #fff;
-      text-shadow: 1px 1px darken($couleur-section-informations-pratiques, 30%);
+      text-shadow: 1px 1px darken($couleur-section-informations-pratiques, 20%);
 
       &:hover {
-        background-color: darken($couleur-section-informations-pratiques, 30%);
+        background-color: darken($couleur-section-informations-pratiques, 20%);
       }
     }
 
