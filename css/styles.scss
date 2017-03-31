@@ -217,9 +217,8 @@ iframe {
     padding: 0;
     list-style-type: none;
 
-    @media (min-width: 40em) {
-      display: flex;
-    }
+    display: flex;
+    flex-wrap: wrap;
   }
 
   li {
