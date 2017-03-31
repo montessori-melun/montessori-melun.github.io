@@ -222,7 +222,8 @@ iframe {
   }
 
   li {
-    flex: 1;
+    // https://twitter.com/HTeuMeuLeu/status/847722276841705472
+    flex: 1 0 auto;
     white-space: nowrap;
     margin: 1px;
     padding: 0;
