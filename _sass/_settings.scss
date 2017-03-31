@@ -2,6 +2,7 @@
 // Couleurs
 // ************************************************************
 
+// Couleurs de base du design
 $couleur-jaune: #FFDB53;
 $couleur-bleu: #92D7E9;
 $couleur-rose: #E85C80;
@@ -9,16 +10,17 @@ $couleur-vert: #4EB566;
 $couleur-rouge: #F45D3D;
 $couleur-noir: #1C1C1B;
 
+// Couleurs de texte et fond
 $couleur-fond: #fff;
-$couleur-texte: $couleur-noir;
+$couleur-texte: lighten($couleur-noir, 10%);
 
-$couleur-lien: darken($couleur-bleu, 20%);
+// Couleurs des liens
+$couleur-lien: darken($couleur-bleu, 30%);
 $couleur-lien-souligne: darken($couleur-bleu, 20%);
-$couleur-lien-survol: $couleur-rouge;
-$couleur-lien-actif: $couleur-rouge;
+$couleur-lien-survol: darken($couleur-rouge, 20%);
+$couleur-lien-actif: $couleur-lien-survol;
 
 // Couleurs d'ambiance des sections
-
 $couleur-section-pedagogie-montessori: $couleur-jaune;
 $couleur-section-ecole: $couleur-bleu;
 $couleur-section-classes: $couleur-rose;
