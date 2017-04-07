@@ -1,5 +1,5 @@
 ---
-title: La classe élémentaire
+title: La Classe Elémentaire : 6/9 ans
 ---
 
 **« Aide-moi à penser par moi-même »**
@@ -28,6 +28,12 @@ Afin de satisfaire l’enfant devenu explorateur culturel, la classe élémentai
 ## Le programme élémentaire
 
 Maria Montessori cherchait à frapper l’imagination des enfants de 6 à 9 ans. C’est donc l’histoire de l’Univers qui lance tout le travail de l’école élémentaire. L’objectif essentiel est de susciter la curiosité, l’intérêt et l’émerveillement de l’enfant. Pour cela, une approche globale est proposée aux enfants ; celle-ci donne lui les clés de compréhension en allant du général au particulier et permet à l’enfant de saisir toutes les relations d’interdépendance entre les différents éléments.
+
+# L'évolution de la classe elémentaire à l'Ecole Montessori de Melun-Vaux le Pénil
+
+L'intégration de tous les niveaux se fera progressivement dans la classe élémentaire.  
+Ainsi, à la rentrée de septembre 2017, la classe élémentaire sera une ambiance 6/9 ans.   
+En septembre 2018, la classe élémentaire deviendra une ambiance 6/10 ans et en septembre 2019, elle deviendra une ambiance 6/11 ans.
 
 # Une journée dans la classe élémentaire à l’Ecole Montessori de Melun-Vaux le Pénil
 
