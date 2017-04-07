@@ -14,7 +14,7 @@ C’est un lieu de vie réunissant les conditions favorables à la construction 
 
 ## L’environnement préparé
 
-Dans la Maison des Enfants, l’environnement est conçu et préparé avec soin ; et il est pensé pour chaque étape du développement de l’enfant.
+A la Maison des Enfants, l’environnement est conçu et préparé avec soin ; et il est pensé pour chaque étape du développement de l’enfant.
 La classe doit être stimulante et adaptée à l’enfant.  Ainsi,  le mobilier et le matériel sont adaptés à la taille et à la force de l’enfant ; et de beaux objets sont présents.
 De plus, la classe est adaptée aux besoins de l’enfant : bouger, se poser, agir, se concentrer …
 Enfin, la classe prend en compte les périodes sensibles de l’enfant : mouvement, ordre, langage, développement social.
