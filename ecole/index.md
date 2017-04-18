@@ -4,7 +4,7 @@ title: L'école
 
 # Présentation
 
-L'École Montessori de Melun-Vaux le Pénil est un établissement privé hors contrat, non confessionnel, déclaré à l'Inspection Académique.
+L'École Montessori de Melun-Vaux le Pénil est un établissement privé hors contrat, non confessionnel, déclaré au Rectorat de Créteil.
 École maternelle et primaire dans un environnement français/anglais, la pédagogie Montessori y est appliquée …
 
 Voir [la présentation détaillée](presentation.md).

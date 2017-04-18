@@ -1,12 +1,12 @@
----
-title: La classe maternelle
+ ---
+title: La Maison des Enfants (classe maternelle) : 3/6 ans
 ---
 
 **« Aide-moi à faire seul »**
 
 # Le projet pédagogique
 
-La classe maternelle est un lieu conçu pour l’enfant afin que celui-ci puisse s’y épanouir pleinement.
+La Maison des Enfants est un lieu conçu pour l’enfant afin que celui-ci puisse s’y épanouir pleinement.
 C’est un lieu de vie réunissant les conditions favorables à la construction et au développement de chaque enfant et permettant la manifestation de ses caractères spontanés.
 
 > « La fonction du milieu n’est pas de former l’enfant, mais de lui permettre de se révéler. »
@@ -14,16 +14,16 @@ C’est un lieu de vie réunissant les conditions favorables à la construction 
 
 ## L’environnement préparé
 
-Dans la classe maternelle, l’environnement est conçu et préparé avec soin ; et il est pensé pour chaque étape du développement de l’enfant.
+A la Maison des Enfants, l’environnement est conçu et préparé avec soin ; et il est pensé pour chaque étape du développement de l’enfant.
 La classe doit être stimulante et adaptée à l’enfant.  Ainsi,  le mobilier et le matériel sont adaptés à la taille et à la force de l’enfant ; et de beaux objets sont présents.
 De plus, la classe est adaptée aux besoins de l’enfant : bouger, se poser, agir, se concentrer …
 Enfin, la classe prend en compte les périodes sensibles de l’enfant : mouvement, ordre, langage, développement social.
 
 ## Le matériel pédagogique
 
-Le matériel pédagogique de la classe maternelle constitue une aide au développement de l’enfant. Il a été conçu afin que l’enfant manipule et fasse des expériences concrètes.
+Le matériel pédagogique de la Maison des Enfants constitue une aide au développement de l’enfant. Il a été conçu afin que l’enfant manipule et fasse des expériences concrètes.
 
-Dans la classe maternelle, une zone de la pièce est dédiée à chaque famille de matériel :
+Dans la Maison des Enfants, une zone de la pièce est dédiée à chaque famille de matériel :
 -  Vie Pratique
 -  Sensoriel
 -  Langage
@@ -34,7 +34,7 @@ Le matériel Montessori est mis à disposition des enfants sur des étagères à
 
 ## Les âges mélangés
 
-La classe maternelle regroupe les enfants âgés de 3 à 6 ans traversant les mêmes étapes de développement. Cette cohabitation dans un environnement coopératif plutôt que concurrentiel favorise l’entraide, le respect mutuel et les échanges entre enfants.
+La Maison des Enfants regroupe les enfants âgés de 3 à 6 ans traversant les mêmes étapes de développement. Cette cohabitation dans un environnement coopératif plutôt que concurrentiel favorise l’entraide, le respect mutuel et les échanges entre enfants.
 
 ## Le travail autonome et individuel
 
@@ -42,7 +42,7 @@ Le respect du rythme de chaque enfant et l’apprentissage à travers des expér
 
 ## L’adulte
 
-L’adulte a la charge des enfants de 3 à 6 ans de la classe maternelle. Il sera aidé d’une assistante. Le rôle de l’adulte dans la classe maternelle est essentiel : il observe l’enfant, le guide dans son évolution et l’accompagne dans sa construction et son développement personnel.
+L’adulte a la charge des enfants de 3 à 6 ans. Il sera aidé d’une assistante. Le rôle de l’adulte à la Maison des Enfants est essentiel : il observe l’enfant, le guide dans son évolution et l’accompagne dans sa construction et son développement personnel.
 
 # La sieste
 
