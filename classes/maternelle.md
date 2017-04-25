@@ -1,5 +1,5 @@
  ---
-title: La Maison des Enfants (classe maternelle) : 3/6 ans
+title: "La Maison des Enfants (classe maternelle) : 3/6 ans"
 ---
 
 **« Aide-moi à faire seul »**
