@@ -24,6 +24,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   header_offset: 1
+  parse_block_html: true
 
 defaults:
   -
