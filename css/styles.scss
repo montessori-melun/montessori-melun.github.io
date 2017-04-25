@@ -314,6 +314,63 @@ main {
   }
 }
 
+// Page d'accueil
+
+main.accueil {
+  display: flex;
+  flex-direction: column;
+
+  img {
+    padding: 1em 0 0;
+  }
+
+  .tour-rose, .jetons {
+    display: none;
+  }
+
+  @media (min-width: 40em) {
+    flex-direction: row;
+
+    .contenu {
+      flex: 3;
+    }
+
+    .illustrations {
+      flex: 2;
+    }
+
+    .tour-rose, .jetons {
+      display: block;
+    }
+
+    img {
+      padding: 1em 0 0 1em;
+    }
+  }
+
+  @media (min-width: 50em) {
+    .contenu, .illustrations {
+      flex: 1;
+    }
+
+    .illustrations div {
+      width: 49%;
+    }
+
+    .carte, .jetons {
+      float: left;
+    }
+
+    .tour-rose {
+      float: right;
+    }
+
+    img {
+      padding: 1em 0 0 1em;
+    }
+  }
+}
+
 // ************************************************************
 // Footer
 // ************************************************************
