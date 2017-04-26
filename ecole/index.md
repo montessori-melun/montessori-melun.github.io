@@ -35,3 +35,5 @@ Voir [les détails sur l'anglais](anglais.md).
 L’École Montessori de Melun-Vaux le Pénil suit le calendrier scolaire établi par le Ministère de l’Éducation Nationale. Elle accueille les enfants quatre jours par semaine : les lundis, mardis, jeudis et vendredis et suit les vacances scolaires de la zone C (Académie de Paris).
 
 Voir [les détails sur la vie de l'école](vie-ecole.md).
+
+{% include illustration-centre.html src='montessori-solides-de-geometrie.jpg' alt='Matériel Montessori : solides de géométrie' %}

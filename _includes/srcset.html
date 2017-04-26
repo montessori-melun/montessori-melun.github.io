@@ -1,6 +1,10 @@
-src="/images/800/{{ include.img }}"
-srcset="
-  /images/400/{{ include.img }} 400w,
-  /images/800/{{ include.img }} 800w,
-  /images/1000/{{ include.img }} 1000w
-"
+<img
+  src="/images/800/{{ include.src }}"
+  srcset="
+    /images/400/{{ include.src }} 400w,
+    /images/800/{{ include.src }} 800w,
+    /images/1000/{{ include.src }} 1000w
+  "
+  alt="{{ include.alt }}"
+  class="{{ include.class }}"
+/>

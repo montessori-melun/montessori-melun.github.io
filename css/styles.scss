@@ -371,6 +371,22 @@ main.accueil {
   }
 }
 
+// Autres pages
+
+.illustration {
+  &.droite {
+    max-width: 33%;
+    float: right;
+    margin: 0 0 1em 1em;
+  }
+
+  &.centre {
+    max-width: 66%;
+    display: block;
+    margin: 1em auto;
+  }
+}
+
 // ************************************************************
 // Footer
 // ************************************************************

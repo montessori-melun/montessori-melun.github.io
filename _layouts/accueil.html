@@ -9,27 +9,19 @@ layout: default
   </div>
   <div class="illustrations">
     <div class="carte">
-      <img
-        {% include srcset.html img='montessori-puzzle-carte-du-monde.jpg' %}
-        sizes="(min-width: 50em) 13em, (min-with: 40em) 40vw, 100vw"
-        alt="Matériel Montessori : le puzzle carte du monde" />
+      {% include srcset.html src="montessori-puzzle-carte-du-monde.jpg" sizes="(min-width: 50em) 13em, (min-with: 40em) 40vw, 100vw" alt="Matériel Montessori : le puzzle carte du monde" %}
     </div>
     <div class="tour-rose">
       <picture>
         <source media="(max-width: 40em)" srcset="/images/vide.gif" />
-        <img
-          {% include srcset.html img='montessori-la-tour-rose.jpg' %}
-          sizes="(min-width: 50em) 13em, (min-with: 40em) 40vw, 100vw"
-          alt="Matériel Montessori : la tour rose" />
+        {% include srcset.html src="montessori-la-tour-rose.jpg" sizes="(min-width: 50em) 13em, (min-with: 40em) 40vw, 100vw"           alt="Matériel Montessori : la tour rose" %}
       </picture>
     </div>
     <div class="jetons">
       <picture>
         <source media="(max-width: 40em)" srcset="/images/vide.gif" />
-        <img
-          {% include srcset.html img='montessori-jetons-et-chiffres.jpg' %}
-          sizes="(min-width: 50em) 13em, (min-with: 40em) 40vw, 100vw"
-          alt="Matériel Montessori : jetons et chiffres" />
+        {% include srcset.html src="montessori-jetons-et-chiffres.jpg" sizes="(min-width: 50em) 13em, (min-with: 40em) 40vw, 100vw"
+          alt="Matériel Montessori : jetons et chiffres" %}
       </picture>
     </div>
   </div>
