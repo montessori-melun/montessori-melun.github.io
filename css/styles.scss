@@ -112,15 +112,19 @@ h6 {
 }
 
 .bleu {
-  color: darken($couleur-bleu, 30%);
+  color: darken($couleur-bleu, 20%);
 }
 
 .rose {
-  color: darken($couleur-rose, 30%);
+  color: darken($couleur-rose, 20%);
 }
 
 .vert {
-  color: darken($couleur-vert, 30%);
+  color: darken($couleur-vert, 20%);
+}
+
+p.centre {
+  text-align: center;
 }
 
 // ************************************************************
@@ -297,16 +301,19 @@ main {
 
   margin: 1em 0 3em;
 
-  ul, dl {
-    margin: 0 0 1em 0;
+  ul {
+    list-style-type: circle;
+    margin: -.5em 0 1.5em 0;
     padding: 0 0 0 1.5em;
   }
 
-  ul {
-    list-style-type: circle;
-  }
   li {
     margin: 0 0 .2em 0;
+  }
+
+  dl {
+    margin: 0 0 1.5em 0;
+    padding: 0 0 0 1.5em;
   }
 
   dt {
@@ -378,16 +385,25 @@ main.accueil {
 // Autres pages
 
 .illustration {
-  &.droite {
-    max-width: 33%;
-    float: right;
-    margin: 0 0 1em 1em;
-  }
+  max-width: 66%;
+  display: block;
+  margin: 1em auto;
 
-  &.centre {
-    max-width: 66%;
-    display: block;
-    margin: 1em auto;
+  @media (min-width: 30em) {
+    &.gauche, &.droite {
+      max-width: 30%;
+      max-width: calc(33% - 1em);
+    }
+
+    &.gauche {
+      float: left;
+      margin: 0 1em 1em 0;
+    }
+
+    &.droite {
+      float: right;
+      margin: 0 0 1em 1em;
+    }
   }
 }
 

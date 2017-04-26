@@ -1,16 +1,21 @@
- ---
+---
 title: "La Maison des Enfants (classe maternelle) : 3/6 ans"
 ---
 
-**« Aide-moi à faire seul »**
+{% include illustration-droite.html src="montessori-cadres-habillage.jpg" alt="Matériel Montessori : les cadres d'habillage" %}
 
 # Le projet pédagogique
 
-La Maison des Enfants est un lieu conçu pour l’enfant afin que celui-ci puisse s’y épanouir pleinement.
-C’est un lieu de vie réunissant les conditions favorables à la construction et au développement de chaque enfant et permettant la manifestation de ses caractères spontanés.
+<p class="rose centre">
+**« Aide-moi à faire seul »**
+</p>
 
-> « La fonction du milieu n’est pas de former l’enfant, mais de lui permettre de se révéler. »
-> Maria Montessori
+La Maison des Enfants est un lieu conçu pour l’enfant afin que celui-ci puisse s’y épanouir pleinement.
+C’est un <span class="rose">lieu de vie</span> réunissant les conditions favorables à la construction et au développement de chaque enfant et permettant la manifestation de ses caractères spontanés.
+
+<p class="rose">
+« La fonction du milieu n’est pas de former l’enfant, mais de lui permettre de se révéler. » — Maria Montessori
+</p>
 
 ## L’environnement préparé
 
@@ -23,12 +28,20 @@ Enfin, la classe prend en compte les périodes sensibles de l’enfant : mouveme
 
 Le matériel pédagogique de la Maison des Enfants constitue une aide au développement de l’enfant. Il a été conçu afin que l’enfant manipule et fasse des expériences concrètes.
 
+{% include illustration-droite.html src='montessori-la-tour-rose.jpg' alt='Matériel Montessori : la tour rose' %}
+
 Dans la Maison des Enfants, une zone de la pièce est dédiée à chaque famille de matériel :
 -  Vie Pratique
 -  Sensoriel
 -  Langage
 -  Mathématiques
 -  mais aussi Sciences, Histoire et Géographie, Musique, Art
+
+{% include illustration-gauche.html src='montessori-jetons-et-chiffres.jpg' alt='Matériel Montessori : jetons et chiffres' %}
+
+{% include illustration-gauche.html src='montessori-cylindres.jpg' alt='Matériel Montessori : les cylindres' %}
+
+<div class="clearfix"></div>
 
 Le matériel Montessori est mis à disposition des enfants sur des étagères à leur portée, de façon à ce qu’il puisse l’utiliser en toute autonomie. Le matériel Montessori offre la possibilité d’autocorrection.
 
@@ -49,6 +62,8 @@ L’adulte a la charge des enfants de 3 à 6 ans. Il sera aidé d’une assistan
 Les enfants les plus jeunes peuvent se reposer en début d’après-midi dans la salle prévue à cet effet. La sieste leur est proposée vers 13h15.
 
 # Une journée dans la classe maternelle à l’Ecole Montessori de Melun-Vaux le Pénil
+
+{% include illustration-droite.html src='montessori-cube-du-binome.jpg' alt='Matériel Montessori : le cube du binôme' %}
 
 de 8h à 9h :
 : accueil des enfants
