@@ -4,16 +4,18 @@ title: Contacts
 
 # Téléphone
 
-07 87 85 45 98
+[{{ site.phone }}](tel:{{ site.phone }})
 
 # Mail
 
-<contact@ecole-montessori-melun.fr>
+[{{ site.email }}](mailto:{{ site.email }})
 
 # Adresse
 
 949, avenue Saint-Just\\
 77000 Vaux-le-Pénil
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42271.35190580252!2d2.6536620136449023!3d48.534007979155206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e5fa044b61f5bb%3A0x13831732ef2f8f2c!2s949+Avenue+Saint-Just%2C+77000+Vaux-le-P%C3%A9nil!5e0!3m2!1sfr!2sfr!4v1493238068012" width="1000" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 # Facebook
 
