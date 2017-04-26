@@ -299,8 +299,12 @@ main {
 
   ul, dl {
     margin: 0 0 1em 0;
+    padding: 0 0 0 1.5em;
   }
 
+  ul {
+    list-style-type: circle;
+  }
   li {
     margin: 0 0 .2em 0;
   }
