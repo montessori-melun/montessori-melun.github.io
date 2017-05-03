@@ -24,7 +24,7 @@ La classe élémentaire est organisée de façon à ce que l’enfant puisse ser
 
 Le matériel Montessori est encore très présent dans la classe élémentaire, il répond à l’intérêt de l’enfant et cultive son esprit curieux. Il aide aussi l’enfant à mémoriser, développe son esprit de raisonnement et ses capacités d’abstraction.
 
-{% include illustration-gauche.html src="Fotolia_108874897_M.jpg" alt="Matériel Montessori" %}
+{% include illustration-gauche.html src="montessori-boites-de-grammaire.jpg" alt="Matériel Montessori : les boîtes de grammaire" %}
 
 {% include illustration-gauche.html src="montessori-tableau-de-division.jpg" alt="Matériel Montessori : le tableau de division" %}
 
