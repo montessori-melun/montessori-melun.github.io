@@ -14,8 +14,9 @@ Directeur de la publication : la directrice de l’École Montessori de Melun-Va
 # Conception/Développement/Hébergement
 
 - Conception graphique :
-- Développement et hébergement :
-- Site propulsé par :
+- Développement : [Nicolas Hoizey](https://nicolas-hoizey.com/)
+- Hébergement : [Github Pages](https://pages.github.com/)
+- Site propulsé par : [Jekyll](http://jekyllrb.com/)
 
 # Responsabilités
 
