@@ -1,4 +1,4 @@
- ---
+---
 title: L'équipe pédagogique
 ---
 
