@@ -6,4 +6,4 @@ L’École Montessori de Melun-Vaux le Pénil est située au 949, avenue Saint-J
 
 {% include illustration-centre.html src="ecole.jpg" alt="L'école" %}
 
-{% include illustration-centre.html src="ecole-vitrophanie.jpg" alt="L'entrée de lécole" %}
+{% include illustration-centre.html src="ecole-vitrophanie.jpg" alt="L'entrée de l'école" %}
