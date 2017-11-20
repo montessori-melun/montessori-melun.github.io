@@ -18,7 +18,7 @@ Reconvertie et formée à la pédagogie Montessori (diplômée de l'Association 
 
 Maman de 2 enfants   
 Après des études linguistiques, Sandrine a travaillé en entreprise en tant qu’assistante de direction où elle pratiquait l’anglais quotidiennement.\\
-Reconvertie à l’initiation à l’anglais en école primaire et maternelle, puis formée à la pédagogie Montessori (diplômée Assistante Montessori de l'Association Montessori Internationale - AMI), Sandrine s'exprime en anglais avec les enfants.
+Reconvertie à l’initiation à l’anglais en école primaire et maternelle, puis formée à la pédagogie Montessori (diplôme d'Assistante Montessori de l'Association Montessori Internationale - AMI), Sandrine s'exprime en anglais avec les enfants.
 
 
 # La Maison des Enfants - 3/6 ans
