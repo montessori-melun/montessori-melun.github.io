@@ -17,7 +17,7 @@ Reconvertie et formée à la pédagogie Montessori (diplômée de l'Association 
 {% include illustration-droite.html src="Sandrine.jpg" alt="Sandrine BENIGNI" %}
 
 Maman de 2 enfants   
-Après des études linguistiques, Sandrine a travaillé en entreprise en tant qu’assistante de direction où elle pratiquait l’anglais quotidiennement. 
+Après des études linguistiques, Sandrine a travaillé en entreprise en tant qu’assistante de direction où elle pratiquait l’anglais quotidiennement.\\
 Reconvertie à l’initiation à l’anglais en école primaire et maternelle, puis formée à la pédagogie Montessori (diplômée Assistante Montessori de l'Association Montessori Internationale - AMI), Sandrine s'exprime en anglais avec les enfants.
 
 
@@ -46,5 +46,5 @@ Julie s'exprime en anglais avec les enfants.
 {% include illustration-droite.html src="Valerie.jpg" alt="Valérie MOALIC" %}
 
 Maman de 2 petites filles   
-Valérie s'occupe des repas, de la sieste   et des garderies du matin et du soir.
+Valérie s'occupe des repas, de la sieste et des garderies du matin et du soir.
 
