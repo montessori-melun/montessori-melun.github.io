@@ -13,13 +13,9 @@ Voir [la présentation détaillée](presentation.md).
 
 L’École Montessori de Melun-Vaux le Pénil est située au 949, avenue Saint-Just à Vaux-le-Pénil.
 
-Les travaux d’aménagements intérieurs et extérieurs sont actuellement en cours de réalisation.
-
 Voir [les détails sur les locaux](locaux.md).
 
 # Équipe pédagogique
-
-L’équipe pédagogique de l’École Montessori de Melun-Vaux le Pénil est actuellement en cours de recrutement.
 
 Voir [l'équipe pédagogique](equipe.md).
 
