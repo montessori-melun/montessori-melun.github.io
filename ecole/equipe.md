@@ -27,7 +27,7 @@ Reconvertie à l’initiation à l’anglais en école primaire et maternelle, p
 
 {% include illustration-droite.html src="Luc.jpg" alt="Luc SEBILO" %}
 
-Diplômée de l'Association Montessori Internationale - AMI, Luc est en charge de l’ambiance 3-6 ans en binôme avec Julie.    
+Diplômé de l'Association Montessori Internationale - AMI, Luc est en charge de l’ambiance 3-6 ans en binôme avec Julie.    
 Luc a travaillé dans différentes écoles Montessori en France et dans les DOM.
 
 **Julie DUFOUR, en charge de la Maison des Enfants 3/6 ans**
