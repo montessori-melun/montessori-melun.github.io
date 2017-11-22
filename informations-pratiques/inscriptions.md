@@ -12,7 +12,7 @@ ou
 
 Une première rencontre sera alors organisée.
 
-# Tarifs
+# Tarifs pour l'année 2017/2018
 
 ## Frais d’inscription
 
@@ -28,9 +28,9 @@ Les frais de scolarité sont payables sur 10 mois, de septembre à juin.
 
 ## Repas
 
-- Environ 50€/60€ par mois (*devis en cours avec le traiteur*)
+- 50 € par mois
 
-L'école propose des repas livrés chaque jour par un traiteur. Mais, il est possible, pour chaque enfant, d'apporter son repas (dans les conditions d'hygiène en vigueur).
+L'école propose des repas livrés chaque jour par un prestataire de restauration scolaire. Mais, il est possible, pour chaque enfant, d'apporter son repas (dans les conditions d'hygiène en vigueur).
 
 ## Garderie
 
