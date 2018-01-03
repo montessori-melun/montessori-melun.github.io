@@ -43,7 +43,7 @@ Julie s'exprime en anglais avec les enfants.
 
 **Valérie MOALIC, agent de service**
 
-{% include illustration-centre.html src="Valerie.JPG" alt="Valérie MOALIC" %}
+{% include illustration-centre.html src="Valérie.JPG" alt="Valérie MOALIC" %}
 
 Maman de 2 petites filles   
 Valérie s'occupe des repas, de la sieste et des garderies du matin et du soir.
