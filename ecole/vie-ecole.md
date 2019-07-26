@@ -23,9 +23,9 @@ de 17h30 à 18h30 :
 
 Dans la pédagogie Montessori, le déjeuner n’est pas une rupture dans la journée mais au contraire l’occasion d’un partage collectif et d’un apprentissage des règles et des usages de la vie commune. Les enfants sont invités à participer : mise du couvert, ...
 
-Les repas sont livrés chaque jour à l’école.
+Les repas sont livrés chaque jour à l’école par notre prestataire de restauration scolaire.
 
-Les parents qui le souhaitent peuvent apporter un panier repas dans le respect des  conditions d’hygiène en vigueur. Les plats peuvent être chauffés au four à 110°C maximum.
+Les parents qui le souhaitent peuvent apporter un panier repas dans le respect des  conditions d’hygiène en vigueur. 
 
 # Le lien avec les familles
 
