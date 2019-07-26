@@ -12,7 +12,9 @@ ou
 
 Une première rencontre sera alors organisée.
 
-# Tarifs pour l'année 2017/2018
+# Tarifs pour l'année 2019/2020
+
+- Les tarifs restent inchangés depuis septembre 2017.
 
 ## Frais d’inscription
 
@@ -34,5 +36,5 @@ L'école propose des repas livrés chaque jour par un prestataire de restauratio
 
 ## Garderie
 
-- Gratuite de 8h à 9h et de 16h30 à 17h30
+- Gratuite de 8h à 9h et de 16h30/45 à 17h30
 - Payante de 17h30 à 18h30 : forfait de 30 € par mois
