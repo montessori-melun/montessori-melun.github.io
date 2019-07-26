@@ -18,7 +18,7 @@ L’École Montessori de Melun-Vaux le Pénil est située au 949, avenue Saint-J
 
 {% include illustration-centre.html src="classe36-3.JPG" alt="Coin bibliothèque" %}
 
-# La Classe Elémentaire - 6/9 ans :
+# La Classe Elémentaire - 6/12 ans :
 
 {% include illustration-centre.html src="classe69-1.JPG" alt="Vue générale 1" %}
 
