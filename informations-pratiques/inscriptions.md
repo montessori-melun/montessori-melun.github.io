@@ -14,7 +14,7 @@ Une première rencontre sera alors organisée.
 
 # Tarifs pour l'année 2019/2020
 
-- Les tarifs restent inchangés depuis septembre 2017.
+Les tarifs restent inchangés depuis septembre 2017.
 
 ## Frais d’inscription
 
