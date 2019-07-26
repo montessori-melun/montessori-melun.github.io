@@ -13,7 +13,7 @@ Les enfants sont accueillis à l’école de 8h00 à 18h30 :
 de 8h à 9h :
 : accueil
 
-de 16h30 à 17h30 :
+de 16h30/45 à 17h30 :
 : sortie
 
 de 17h30 à 18h30 :
