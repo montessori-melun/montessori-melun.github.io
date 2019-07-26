@@ -19,8 +19,6 @@ de 16h30/45 à 17h30 :
 de 17h30 à 18h30 :
 : garderie (forfait 30 €/mois)
 
-Les cours sont donnés de 9h à 11h30 et de 14h à 16h30.
-
 # Le déjeuner
 
 Dans la pédagogie Montessori, le déjeuner n’est pas une rupture dans la journée mais au contraire l’occasion d’un partage collectif et d’un apprentissage des règles et des usages de la vie commune. Les enfants sont invités à participer : mise du couvert, ...
