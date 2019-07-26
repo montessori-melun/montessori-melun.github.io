@@ -2,17 +2,17 @@
 title: L'équipe pédagogique
 ---
 
-# La Classe Elémentaire - 6/9 ans
+# La Classe Elémentaire - 6/12 ans
 
-**Betty NEDELEC-SCHWENCK - Directrice, en charge de la Classe Elémentaire 6/9 ans**
+**Betty NEDELEC-SCHWENCK - Directrice, en charge de la Classe Elémentaire 6/12 ans**
 
 {% include illustration-centre.html src="Betty.jpg" alt="Betty NEDELEC-SCHWENCK" %}
 
 Maman de 3 enfants   
 Ingénieur en Mathématiques Appliquées pendant 10 ans au sein de grandes entreprises   
-Reconvertie et formée à la pédagogie Montessori (diplômée de l'Association Montessori Internationale - AMI) : expériences en 3/6 ans et 6/9 ans.
+Reconvertie et formée à la pédagogie Montessori (diplômée de l'Association Montessori Internationale - AMI) : expériences en 3/6 ans et 6/12 ans.
 
-**Sandrine BENIGNI - Assistante anglophone 6/9 ans**
+**Sandrine BENIGNI - Assistante anglophone 6/12 ans**
 
 {% include illustration-centre.html src="Sandrine.JPG" alt="Sandrine BENIGNI" %}
 
@@ -45,6 +45,6 @@ Julie s'exprime en anglais avec les enfants.
 
 {% include illustration-centre.html src="Valérie.JPG" alt="Valérie MOALIC" %}
 
-Maman de 2 petites filles   
-Valérie s'occupe des repas, de la sieste et des garderies du matin et du soir.
+Maman de 2 petites filles et titulaire du CAP Accompagnement Educatif Petite Enfance   
+Valérie s'occupe des repas, de la sieste, de l'accueil du matin et de la garderie du soir.
 
