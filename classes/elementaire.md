@@ -19,7 +19,7 @@ C’est aussi l’âge où se développe l’imagination. Il est alors possible 
 
 {% include illustration-droite.html src="montessori-boite-de-geometrie.jpg" alt="Matériel Montessori : la boîte de géométrie" %}
 
-L’enfant de 6 à 12 ans a un grand sens de la justice et développe une conscience nécessaire à la vie sociale. C’est une période marquée par l’instinct grégaire et les grandes amitiés.
+L’enfant de 6 à 12 ans a un grand sentiment de justice et un grand sens moral. Il développe une conscience nécessaire à la vie sociale. C’est une période marquée par l’instinct grégaire et les grandes amitiés.
 La classe élémentaire est organisée de façon à ce que l’enfant puisse servir son groupe à travers son activité individuelle. Il est important de permettre aux enfants d’être en groupe de manière constructive.
 
 Le matériel Montessori est encore très présent dans la classe élémentaire, il répond à l’intérêt de l’enfant et cultive son esprit curieux. Il aide aussi l’enfant à mémoriser, développe son esprit de raisonnement et ses capacités d’abstraction.
@@ -41,7 +41,7 @@ Afin de satisfaire l’enfant devenu explorateur culturel, la classe élémentai
 
 Maria Montessori cherchait à frapper l’imagination des enfants de 6 à 12 ans. C’est donc l’<span class="rose">histoire de l’Univers</span> qui lance tout le travail de l’école élémentaire. L’objectif essentiel est de susciter <span class="rose">la curiosité, l’intérêt et l’émerveillement</span> de l’enfant. Pour cela, une approche globale est proposée aux enfants ; celle-ci donne lui les clés de compréhension en allant du général au particulier et permet à l’enfant de saisir toutes les relations d’interdépendance entre les différents éléments.
 
-# Une journée dans la classe élémentaire à l’Ecole Montessori de Melun-Vaux le Pénil
+# Une journée dans la Classe Elémentaire à l’Ecole Montessori de Melun-Vaux le Pénil
 
 de 8h à 9h :
 : accueil des enfants
