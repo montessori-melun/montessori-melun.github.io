@@ -53,15 +53,15 @@ La Maison des Enfants regroupe les enfants âgés de 3 à 6 ans traversant les m
 
 Le respect du rythme de chaque enfant et l’apprentissage à travers des expériences concrètes passent par le travail autonome et individuel. Pour cela, des plages de travail (2 heures et demie) suffisamment longues sont proposées.
 
-## L’adulte
+## L’adulteLe
 
-L’adulte a la charge des enfants de 3 à 6 ans. Il sera aidé d’une assistante. Le rôle de l’adulte à la Maison des Enfants est essentiel : il observe l’enfant, le guide dans son évolution et l’accompagne dans sa construction et son développement personnel.
+Le rôle de l’adulte à la Maison des Enfants est essentiel : il observe l’enfant, le guide dans son évolution et l’accompagne dans sa construction et son développement personnel.
 
 # La sieste
 
 Les enfants les plus jeunes peuvent se reposer en début d’après-midi dans la salle prévue à cet effet. La sieste leur est proposée vers 13h15.
 
-# Une journée dans la classe maternelle à l’Ecole Montessori de Melun-Vaux le Pénil
+# Une journée à la Maison des Enfants de l’Ecole Montessori de Melun-Vaux le Pénil
 
 {% include illustration-droite.html src='montessori-cube-du-binome.jpg' alt='Matériel Montessori : le cube du binôme' %}
 
