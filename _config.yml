@@ -13,10 +13,6 @@ repository: "montessori-melun/montessori-melun"
 # Permalinks
 permalink: :year/:month/:title:output_ext
 
-# Plugins
-gems:
-  - jekyll-sitemap
-
 # Just for local server
 port: 4321
 
