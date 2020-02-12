@@ -43,7 +43,7 @@ Luc a travaillé dans différentes écoles Montessori en France et dans les DOM.
 
 {% include illustration-centre.html src="Berengere.jpg" alt="Bérengère DIOCHON" %}
 
-Maman de 3 enfants\\   
+Maman de 3 enfants\\
 Bérengère est en charge de l’ambiance 3/6 ans en binôme avec Luc.   
 
 # L'école
@@ -52,7 +52,7 @@ Bérengère est en charge de l’ambiance 3/6 ans en binôme avec Luc.
 
 {% include illustration-centre.html src="Valérie2.JPG" alt="Valérie MOALIC" %}
 
-Maman de 3 petites filles\\ 
+Maman de 3 petites filles\\
 Titulaire du CAP Accompagnement Educatif Petite Enfance et initiée à la pédagogie Montessori à travers des « week-end découverte » de l’Institut Supérieur Maria Montessori – Etablissement agrée AMI, Valérie s’occupe de la remise en température des repas, accueille les familles le matin, accompagne les enfants de l’ambiance 3/6 ans sur le temps du repas et de la sieste et assure la garderie du soir.
 
 Valérie est actuellent en congé maternité, elle est remplacée par Marie-Noëlle.
