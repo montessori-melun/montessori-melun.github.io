@@ -50,7 +50,7 @@ Bérengère est en charge de l’ambiance 3/6 ans en binôme avec Luc.
 
 **Valérie MOALIC, agent de service**
 
-{% include illustration-centre.html src="Valérie2.jpg" alt="Valérie MOALIC" %}
+{% include illustration-centre.html src="Valerie2.jpg" alt="Valérie MOALIC" %}
 
 Maman de 3 petites filles\\
 Titulaire du CAP Accompagnement Educatif Petite Enfance et initiée à la pédagogie Montessori à travers des « week-end découverte » de l’Institut Supérieur Maria Montessori – Etablissement agrée AMI, Valérie s’occupe de la remise en température des repas, accueille les familles le matin, accompagne les enfants de l’ambiance 3/6 ans sur le temps du repas et de la sieste et assure la garderie du soir.
