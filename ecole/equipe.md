@@ -36,7 +36,7 @@ Reconvertie à l’initiation à l’anglais en école primaire et maternelle, p
 
 {% include illustration-centre.html src="Luc2.JPG" alt="Luc SEBILO" %}
 
-Diplômé de l'Association Montessori Internationale - AMI, Luc est en charge de l’ambiance 3-6 ans en binôme avec Bérengère.    
+Diplômé de l'Association Montessori Internationale - AMI, Luc est en charge de l’ambiance 3/6 ans en binôme avec Bérengère.    
 Luc a travaillé dans différentes écoles Montessori en France et dans les DOM.
 
 **Bérengère DIOCHON, en charge de la Maison des Enfants 3/6 ans**
@@ -44,7 +44,7 @@ Luc a travaillé dans différentes écoles Montessori en France et dans les DOM.
 {% include illustration-centre.html src="Berengere.jpg" alt="Bérengère DIOCHON" %}
 
 Maman de 3 enfants   
-Bérengère est en charge de l’ambiance 3-6 ans en binôme avec Luc.   
+Bérengère est en charge de l’ambiance 3/6 ans en binôme avec Luc.   
 
 # L'école
 
