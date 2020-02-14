@@ -59,5 +59,7 @@ Valérie est actuellent en congé maternité, elle est remplacée par Marie-Noë
 
 **Alyriane CHAMEROY, Service Civique**
 
+{% include illustration-centre.html src="Alyriane.jpg" alt="Alyriane CHAMEROY" %}
+
 Alyriane est titulaire d'une licence d'Anglais, elle sera présente tout au long de l'année scolaire 2019/2020 afin d'effectuer sa mission de Service Civique.
 
