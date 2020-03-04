@@ -8,7 +8,7 @@ layout: accueil
 
 L’école se compose de deux ambiances :
 
-- la Maison des Enfants (classe maternelle) pour les enfants de 3 à 6 ans
+- la Maison des Enfants pour les enfants de 3 à 6 ans
 - la Classe Elémentaire pour les enfants de 6 à 12 ans
 
 Cette école est un établissement scolaire mais aussi un lieu de vie pour les enfants : il s’agit non seulement d’y permettre l'acquisition des apprentissages académiques, mais surtout de favoriser l’épanouissement de la personnalité de chaque enfant.
