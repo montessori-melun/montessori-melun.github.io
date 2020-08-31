@@ -47,7 +47,7 @@ Elle est également co-fondatrice de l'association « Montessori par nature » q
 
 After studying in Australia and completing a bachelor’s degree in applied languages, I turned to customer service in France and in England.
 English has always been an important part of both my professional and personal lives. I very early on decided I wanted to share this knowledge and started working with several language training centres. I also taught private lessons and worked as a translator.
-Teaching children English is crucial nowadays and has to be fun and practical at all times. I look forward to being able to make English a part of their everyday life.\\
+Teaching children English is crucial nowadays and has to be fun and practical at all times. I look forward to being able to make English a part of their everyday life.
 
 Après avoir fait une partie de mes études en Australie puis une licence de langues appliquées, je me suis dirigée vers le service client en France et en Angleterre. 
 J’ai toujours dédié une grande importance à l’anglais, aussi bien dans ma vie professionnelle que personnelle. J’ai donc décidé très vite de le transmettre et ai travaillé dans plusieurs centres linguistiques. J’ai accompagné des apprenants en cours particuliers et ai travaillé en tant que traductrice.  
