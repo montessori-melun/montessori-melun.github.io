@@ -21,8 +21,7 @@ Voir [l'équipe pédagogique](equipe.md).
 
 # Anglais
 
-La mise en place d’une deuxième langue dans une classe Montessori peut se faire simplement puisque, dans chaque classe, travaillent deux adultes.
-La présence d’un adulte anglophone dans la classe, aux côtés d’un adulte francophone permet de créer un bain linguistique dans lequel les enfants vont pouvoir découvrir de façon très naturelle une deuxième langue. L’utilisation de l’anglais s’effectue donc de manière journalière.
+La présence d’un adulte parlant exclusivement anglais dans l’école, aux côtés d’autres adultes parlant français permet de créer un bain linguistique dans lequel les enfants vont pouvoir découvrir de façon très naturelle une deuxième langue. L’utilisation de l’anglais s’effectue donc de manière journalière.
 
 Voir [les détails sur l'anglais](anglais.md).
 
