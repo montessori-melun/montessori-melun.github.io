@@ -4,7 +4,7 @@ title: L'équipe pédagogique
 
 # La Classe Elémentaire - 6/12 ans
 
-**Betty NEDELEC-SCHWENCK - Directrice, en charge de la Classe Elémentaire 6/12 ans**
+**Betty NEDELEC-SCHWENCK - Fondatrice de l'école, Directrice, en charge de la Classe Elémentaire 6/12 ans**
 
 {% include illustration-centre.html src="Betty2.jpg" alt="Betty NEDELEC-SCHWENCK" %}
 
