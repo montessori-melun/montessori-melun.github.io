@@ -53,7 +53,7 @@ La Maison des Enfants regroupe les enfants âgés de 3 à 6 ans traversant les m
 
 Le respect du rythme de chaque enfant et l’apprentissage à travers des expériences concrètes passent par le travail autonome et individuel. Pour cela, des plages de travail (2 heures et demie) suffisamment longues sont proposées.
 
-## L’adulteLe
+## L’adulte
 
 Le rôle de l’adulte à la Maison des Enfants est essentiel : il observe l’enfant, le guide dans son évolution et l’accompagne dans sa construction et son développement personnel.
 
