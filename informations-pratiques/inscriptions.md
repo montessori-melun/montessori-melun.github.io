@@ -12,7 +12,7 @@ ou
 
 Une première rencontre sera alors organisée.
 
-# Tarifs pour l'année 2019/2020
+# Tarifs pour l'année 2020/2021
 
 Les tarifs restent inchangés depuis septembre 2017.
 
@@ -32,7 +32,7 @@ Les frais de scolarité sont payables sur 10 mois, de septembre à juin.
 
 - 50 € par mois
 
-L'école propose des repas livrés chaque jour par un prestataire de restauration scolaire. Mais, il est possible, pour chaque enfant, d'apporter son repas (dans les conditions d'hygiène en vigueur).
+L'école propose des repas livrés chaque jour par un prestataire de restauration scolaire. Mais il est possible, pour chaque enfant, d'apporter son repas (dans les conditions d'hygiène en vigueur).
 
 ## Garderie
 
