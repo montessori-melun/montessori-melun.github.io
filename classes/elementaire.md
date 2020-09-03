@@ -33,9 +33,9 @@ Le matériel Montessori est encore très présent dans la classe élémentaire, 
 L’adulte introduit de nouveaux concepts lors d’une leçon en petit groupe ou individuellement. Ensuite, l’enfant explore, répète, recherche, approfondit, poursuit par des exercices … L’adulte relance, suit, guide. Le travail peut prendre plusieurs formes : avec ou sans matériel, lecture, recherche, travaux manuels, artistiques, projets, …
 Le travail de l’enfant de 6 à 12 ans est donc organisé afin de favoriser le travail en groupe, afin qu’il confronte son point de vue, qu’il s’associe avec d’autres.
 
-## Les sorties culturelles
+## Les sorties culturelles (Petites Sorties)
 
-Afin de satisfaire l’enfant devenu explorateur culturel, la classe élémentaire doit être ouverte sur le monde. Grâce aux sorties culturelles, l’enfant de 6 à 12 ans explore en dehors des murs de la classe, réalise des découvertes environnantes et rencontre d’autres membres de la société et apprend à se débrouiller seul.
+Afin de satisfaire l’enfant devenu explorateur culturel, la classe élémentaire doit être ouverte sur le monde. Grâce aux sorties culturelles (Petites Sorties), l’enfant de 6 à 12 ans explore en dehors des murs de la classe, réalise des découvertes environnantes et rencontre d’autres membres de la société et apprend à se débrouiller seul.
 
 ## Le programme élémentaire
 
@@ -55,13 +55,16 @@ de 12h à 12h45 :
 de 12h45 à 13h30 :
 : temps de récréation
 
-de 13h30 à 16h15/30 :
+de 13h30 à 16h30 :
 : temps de travail et d’activités individuelles ou en petits groupes
 
-de 16h15/30 à 16h45 :
+de 16h30 à 16h45 :
 : temps d’échanges et goûter
 
-de 16h45 à 17h30 :
+de 16h45 à 17h00 :
+: responsabilités
+
+de 17h00 à 17h30 :
 : sortie
 
 de 17h30 à 18h30 :
