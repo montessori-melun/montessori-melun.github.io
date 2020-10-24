@@ -6,7 +6,7 @@ title: Mentions légales
 
 École Montessori de Melun\\
 Association loi 1901\\
-Siège social : 13 allée Clément Marot – 77170 BRIE COMTE ROBERT\\
+Siège social : 949 avenue Saint-Just - 77000 VAUX LE PENIL\\
 Téléphone : <a href="tel:{{ site.phone }}">{{ site.phone }}</a>\\
 Email : <a href="mailto:{{ site.email }}">{{ site.email }}</a>\\
 Directeur de la publication : la directrice de l’École Montessori de Melun-Vaux le Pénil
