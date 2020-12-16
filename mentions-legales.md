@@ -9,6 +9,7 @@ Association loi 1901\\
 Siège social : 949 avenue Saint-Just - 77000 VAUX LE PENIL\\
 Téléphone : <a href="tel:{{ site.phone }}">{{ site.phone }}</a>\\
 Email : <a href="mailto:{{ site.email }}">{{ site.email }}</a>\\
+Siret : 828 513 333 00025\\
 Directeur de la publication : la directrice de l’École Montessori de Melun-Vaux le Pénil
 
 # Conception/Développement/Hébergement
