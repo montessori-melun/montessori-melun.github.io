@@ -6,11 +6,11 @@ title: Présentation
 
 L'École Montessori de Melun-Vaux le Pénil est un établissement privé hors contrat, non confessionnel, déclaré à l'Inspection Académique.
 
-École maternelle et primaire dans un environnement français/anglais, la pédagogie Montessori y est appliquée.
+École maternelle et élémentaire dans un environnement français/anglais, la pédagogie Montessori y est appliquée.
 
 L'École Montessori de Melun-Vaux le Pénil accueille les enfants âgés de 3 à 12 ans, répartis en 2 classes :
--  la classe maternelle pour les enfants de 3 à 6 ans
--  la classe élémentaire pour les enfants de 6 à 12 ans.
+-  la Maison des Enfants pour les enfants de 3 à 6 ans
+-  la Classe Elémentaire pour les enfants de 6 à 12 ans.
 
 Des éducateurs, enseignants et assistants, formés à la pédagogie Montessori, encadrent les enfants.
 
