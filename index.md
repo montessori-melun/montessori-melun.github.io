@@ -4,7 +4,7 @@ layout: accueil
 
 <p class="bleu">Bienvenue à l’École Montessori de Melun-Vaux le Pénil !</p>
 
-École maternelle et primaire appliquant la pédagogie Montessori dans un environnement français/anglais, les enfants âgés de 3 à 12 ans y sont accueillis.
+École maternelle et élémentaire appliquant la pédagogie Montessori dans un environnement français/anglais, les enfants âgés de 3 à 12 ans y sont accueillis.
 
 L’école se compose de deux ambiances :
 
