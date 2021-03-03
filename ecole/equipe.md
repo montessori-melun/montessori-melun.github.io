@@ -70,6 +70,6 @@ Valérie seconde également la Directrice sur la partie administrative de l’é
 
 Maman de 2 enfants\\
 Éducatrice spécialisée, Aurélie a travaillé auprès d'enfants extraordinaires, d'adolescents, de personnes en difficultés sociales et en milieu carcéral. Ses accompagnements personnalisés étaient axés sur le travail auprès des familles et le soutien à la parentalité.
-Aurélie rejoint l’équipe de l’École Montessori de Melun-Vaux le Pénil en tant qu’Agent de restauration ; elle assure la remise en température des repas et accompagne les enfants de l'ambiance 3/6 ans sur le temps des repas. 
+Aurélie rejoint l’équipe de l’École Montessori de Melun-Vaux le Pénil en tant qu’Agent de restauration ; elle assure la remise en température des repas et accompagne les enfants de l'ambiance 3/6 ans sur le temps des repas. Aurélie est formée à la méthode de maîtrise de la sécurité sanitaire des denrées alimentaires HACCP.
 
 
