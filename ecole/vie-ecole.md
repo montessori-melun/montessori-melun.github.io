@@ -17,7 +17,7 @@ de 16h30/45 à 17h30 :
 : sortie
 
 de 17h30 à 18h30 :
-: garderie (forfait 30 €/mois)
+: garderie
 
 # Le déjeuner
 
