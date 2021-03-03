@@ -55,13 +55,12 @@ Aujourd’hui, transmettre l’anglais aux enfants est primordial, toujours de m
 
 # L'école
 
-**Valérie MOALIC, Assistante Montessori/Assistante administrative**
+**Valérie MOALIC, CAP AEPE**
 
 {% include illustration-centre.html src="Valerie2.jpg" alt="Valérie MOALIC" %}
 
 Maman de 3 petites filles\\
 Titulaire du CAP Accompagnement Éducatif Petite Enfance et initiée à la pédagogie Montessori à travers des « week-end découverte » de l’Institut Supérieur Maria Montessori – Établissement agrée AMI, Valérie accueille les familles le matin, accompagne les enfants de l’ambiance 3/6 ans sur le temps de la sieste et assure la garderie du soir.
-Valérie seconde également la Directrice sur la partie administrative de l’école en tant qu’assistante administrative.
 
 
 **Aurélie ORCEL, Agent de restauration**
