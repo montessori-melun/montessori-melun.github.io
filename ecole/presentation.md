@@ -16,7 +16,9 @@ Des éducateurs, enseignants et assistants, formés à la pédagogie Montessori,
 
 Afin de rester attentif au développement de chaque enfant, les effectifs de chaque classe sont limités à une vingtaine d'enfants.
 
-L'École Montessori de Melun-Vaux le Pénil est adhérente de l’**Association Montessori de France (AMF)** ainsi que de l’**Association Montessori Internationale (AMI)**.
+L'École Montessori de Melun-Vaux le Pénil est adhérente et <u>référencée</u> par l’**Association Montessori de France (AMF)** ; elle est aussi adhérente de l’**Association Montessori Internationale (AMI)**.
+
+L’École Montessori de Melun-Vaux le Pénil a ouvert à la rentrée de septembre 2017.
 
 # Un lieu de vie pour les enfants
 
