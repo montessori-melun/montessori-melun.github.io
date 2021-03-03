@@ -36,7 +36,9 @@ L'école propose des repas livrés chaque jour par un prestataire de restauratio
 
 - Gratuite de 8h à 9h et de 16h30/45 à 17h30
 - Payante de 17h30 à 18h30 : 
-* forfait mensuel de 40 € par mois pour 4 jours de garderie par semaine
-* forfait mensuel de 30 € par mois pour 3 jours de garderie par semaine
-* forfait mensuel de 20 € par mois pour 2 jours de garderie par semaine
-* forfait mensuel de 10 € par mois pour 1 jour de garderie par semaine
+<ul>
+<li>* forfait mensuel de 40 € par mois pour 4 jours de garderie par semaine</li>
+<li>* forfait mensuel de 30 € par mois pour 3 jours de garderie par semaine</li>
+<li>* forfait mensuel de 20 € par mois pour 2 jours de garderie par semaine</li>
+<li>* forfait mensuel de 10 € par mois pour 1 jour de garderie par semaine</li>
+  </ul>
