@@ -5,7 +5,7 @@ title: Liens
 Association Montessori de France (AMF) :
 : <https://montessori-france.asso.fr/>
 
-Association Montessori International (AMI) :
+Association Montessori Internationale (AMI) :
 : <http://ami-global.org/>
 
 Institut Supérieur Maria Montessori (ISMM) :
